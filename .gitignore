@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+visitor_data.db
+env/
+venv/
+*.log
